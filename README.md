@@ -1,3 +1,10 @@
+Store-Cart
+
+There Server APIs in ServerAPI folder! First run all this APIs and then start react script!
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

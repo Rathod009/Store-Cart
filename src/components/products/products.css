@@ -1,0 +1,49 @@
+.customCard {
+  margin: 20px;
+  display: flex;
+}
+
+.header {
+  display: inline;
+}
+
+.header button {
+  float: right;
+  margin: 15px;
+  border: none;
+  padding: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  background-color: rgb(93, 163, 224);
+  color: #fff;
+  cursor: pointer;
+}
+
+.title {
+  display: inline-block;
+  padding: 10px;
+  font-size: 30px;
+  padding-bottom: 0px;
+  cursor: pointer;
+}
+
+.divider {
+  margin-bottom: 20px;
+  margin-top: 0px;
+  width: 98%;
+  align-self: center;
+  padding: 0px;
+}
+
+.content {
+  padding: 3px;
+  padding-left: 10px;
+}
+
+.price {
+  font-weight: 500;
+  border: rgb(78, 78, 78) solid 1px;
+  padding: 3px;
+  padding-left: 12px;
+  padding-right: 12px;
+}

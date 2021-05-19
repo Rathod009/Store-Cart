@@ -1,0 +1,42 @@
+.headerCart {
+  text-align: center;
+  margin: 10px;
+  font-size: large;
+  padding: 5px;
+  color: rgb(54, 54, 54);
+  border: solid rgb(93, 163, 224) 2px;
+}
+
+.customCardItem {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  justify-content: space-between;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 20px;
+}
+
+.itemTitle {
+  font-size: 3vh;
+  font-weight: 400;
+}
+
+.itemPrice {
+  float: center;
+  font-size: 3vh;
+  font-weight: 400;
+}
+.btnAll {
+  border: none;
+  padding: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  background-color: rgb(93, 163, 224);
+  color: #fff;
+  cursor: pointer;
+}
+
+.customCardItem remove {
+  float: right;
+}
